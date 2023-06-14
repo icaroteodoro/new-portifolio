@@ -15,6 +15,9 @@ module.exports = {
         gray:{
           200: '#292B32',
           600: '#1E1E22',
+        },
+        blue: {
+          700: '#12121B'
         }
       },
       transitionDuration: {
